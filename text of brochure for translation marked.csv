@@ -6,6 +6,7 @@
 <p>Design: Lucian Niță</p>
 
 "<p>This publication was developed under the “Development and Enhancement of Legal Frameworks in Eastern Europe and Eurasia to Protect Internet Freedom” program, implemented by the American Bar Association Rule of Law Initiative (ABA ROLI) and supported by the United States Department of State.</p>"
+<<<<<<< HEAD
 <h2>Table of contents</h2>
 <h3>Introduction</h3>
 <h3>Content Regulation</h3>
@@ -19,6 +20,21 @@
 <h3>Licensing</h3>
 <h2>Introduction</h2>
 <h3>1.1. Why this brochure on Internet and Freedom of Expression?</h3>
+=======
+"<h3>Table of contents</h4>"
+"<ul><li>Introduction</li>"
+"<li>Content Regulation</li>"
+"<li>Duties and Responsibilities - online and offline</li>"
+"<li>Intermediary liability for Internet services</li>"
+"<li>The right to information</li>"
+"<li>Internet blocking</li>"
+"<li>Freedom of expression versus privacy</li>"
+"<li>Freedom of expression versus copyright</li>"
+"<li>Other limitations (national security, protection of health or morals, judicial proceedings)</li>"
+"<li>Licensing</ul></li>"
+"<h3>Introduction</h3>"
+"<h4>1.1. Why this brochure on Internet and Freedom of Expression?</h4>"
+>>>>>>> 287dde0a2804f9f6527645f1a17418c866dbe960
 "<p>The Internet has significantly changed our lives in the past years in many areas, including the way we access and publish information. But most importantly, it has enhanced the exercise of our freedom of expression rights both by allowing access to various sources of information but also by significantly democratizing the open publishing of any kind of information.</p>"
 "<cite>“In the light of its accessibility and its capacity to store and communicate vast amounts of information, the Internet plays an important role in enhancing the public’s access to news and facilitating the dissemination of information in general.”</cite>"
 "<i>Times Newspapers Ltd v. the United Kingdom (nos. 1 and 2), ECtHR, 2009</i>"
@@ -356,10 +372,17 @@
 <p>The entire enhanced version of this chapter with links and summaries of the caselaw can be found online at https://cases.internetfreedom.blog</p>
 <h3>7. Freedom of expression versus privacy</h3>
 "<p>One of the most complicated limitations of the right to freedom of expression is when the other party is also claiming that they have their own fundamental rights breached, and especially the right to privacy – or as the European Convention defines it in Article 8 – the right to respect for private and family life.</p>"
+<<<<<<< HEAD
 <!------->
 <article><h4>Article 8 of the European Convention on Human Rights</h4>
 <h5>Right to respect for private and family life</h5>
 "<ol><li>Everyone has the right to respect for his private and family life, his home and his correspondence.<li>"
+=======
+"<!------->"
+"<article><h4>ARTICLE 8 of the European Convention on Human Rights</h4>"
+"<h5>Right to respect for private and family life</h5>"
+"<ol><li>Everyone has the right to respect for his private and family life, his home and his correspondence.</li>"
+>>>>>>> 287dde0a2804f9f6527645f1a17418c866dbe960
 "<li>There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.</li></article>"
 <!------->
 "<p>One of the reasons for which the notion of private life creates so many problems is that the concept is rather broad and can not have a very strict definition, even according to the ECtHR’s jurisprudence.</p>"
@@ -448,6 +471,7 @@ The entire enhanced version of this chapter with links and summaries of the case
 "<p>While there are cases when expression limitations are upheld by the ECtHR, there is also a large array of cases where the member states of the Council of Europe were found in violation of Article 10, when attempting to protect the above listed interests.</p>"
 "<p>For example, the need to protect national security allows for limitations of the right to freedom of expression, but it has to be proved by authorities that these limitations are indeed necessary in a democratic society.</p>"
 "<p>On the other hand, in what regards pornography and blasphemy, these might be more easily limited in the interests of protecting health or morals. Protecting the rights of children is paramount. Child pornography is illegal.</p>"
+<<<<<<< HEAD
 <h4>Key aspects from relevant ECtHR cases:</h4>
 <p>National security limitations of freedom of expressions - only if proved necessary in a democratic society</p>
 "<cite>“While the press must not overstep the bounds set, inter alia, for the protection of vital interests of the State such as national security or territorial integrity against the threat of violence or the prevention of disorder or crime, it is nevertheless incumbent on the press to impart information and ideas on political issues, including divisive ones. Not only has the press the task of imparting such information and ideas; the public has a right to receive them. Freedom of the press affords the public one of the best means of discovering and forming an opinion of the ideas and attitudes of political leaders.”</cite>"
@@ -474,6 +498,34 @@ The entire enhanced version of this chapter with links and summaries of the case
 "<i>Dupuis and Others v. France, Application no. 1914/02, Judgment of 7 June 2007<i>"
 <p>The entire enhanced version of this chapter with links and summaries of the caselaw can be found online at https://cases.internetfreedom.blog</p>
 <h3>10. Licensing</h3>
+=======
+"<h4>Key aspects from relevant ECtHR cases:</h4>"
+"<p>National security limitations of freedom of expressions - only if proved necessary in a democratic society</p>"
+"<article><cite>“While the press must not overstep the bounds set, inter alia, for the protection of vital interests of the State such as national security or territorial integrity against the threat of violence or the prevention of disorder or crime, it is nevertheless incumbent on the press to impart information and ideas on political issues, including divisive ones. Not only has the press the task of imparting such information and ideas; the public has a right to receive them. Freedom of the press affords the public one of the best means of discovering and forming an opinion of the ideas and attitudes of political leaders.”</cite>"
+"<i>Sürek and Özdemir v. Turkey [Grand Chamber], 1999</i></article>"
+"<article><cite>“The Court has paid particular attention to the terms used in these articles and the context of their publication, taking into account the circumstances surrounding the cases submitted for its consideration, in particular the difficulties related to the fight against terrorism. It finds that the disputed writings didn't contain any allusion to the use of violence, armed resistance or uprising, and that they do not constitute hate speech, which in its view is the essential element to be taken into consideration.”</cite>"
+"<i>Bayar and Gürbüz v. Turkey, 2012</i></article>"
+"<article><cite>“the impugned article associated itself with the PKK and expressed a call for the use of armed force as a means to achieve national independence of Kurdistan. (...). In such a context the content of the article must be seen as capable of inciting to further violence in the region. Indeed the message which is communicated to the reader is that recourse to violence is a necessary and justified measure of self-defence in the face of the aggressor. It is in this perspective that the Court finds that that reasons adduced by the respondent State for the applicant’s conviction are both relevant and sufficient to ground an interference with the applicant’s right to freedom of expression. The Court reiterates that the mere fact that “information” or “ideas” offend, shock or disturb does not suffice to justify that interference (see paragraph 36 above). What is in issue in the instant case, however, is incitement to violence.”</cite>"
+"<i>Case of Sürek v. Turkey (No. 3), 1999</i></article>"
+"<p>Pornography and blasphemy can be limited for protecting health or morals</p>"
+"<article><cite>“(…)  in the context of religious beliefs, may legitimately be included a duty to avoid as far as possible an expression that is, in regard to objects of veneration, gratuitously offensive to others and profanatory (…). (…) a wider margin of appreciation is generally available to the Contracting States when regulating freedom of expression in relation to matters liable to offend intimate personal convictions within the sphere of morals or, especially, religion. Moreover, as in the field of morals, and perhaps to an even greater degree, there is no uniform European conception of the requirements of “the protection of the rights of others” in relation to attacks on their religious convictions. (…).”</cite>"
+"<i>Wingrove v. the United Kingdom, 1996</i></article>"
+"<article><cite>“The Court further observes that it would have been possible for the applicant to have avoided the harm and, consequently, the conviction, while still carrying on his business, by ensuring that none of the [pornographic] photographs were available on the free preview page (where there were no age checks). He chose not to do so, no doubt because he hoped to attract more customers by leaving the photographs on the free preview page.”</cite>"
+"<i>Perrin v. the United Kingdom, 2005<i></article>"
+"<p>Protecting the rights of children is paramount</p>"
+"<article><cite>“In the Court's view, in cases such as the present one where an offence has been committed by a minor who has not reached the statutory age of criminal responsibility and who is not considered responsible for his actions, a journalist's right to impart information on a serious criminal offence must yield to the minor's right to the effective protection of his private life. There can be little doubt that his repeated naming in the press in connection with the reprehensible (...) incident was particularly harmful to Mr V.'s stepgrandson's moral and psychological development and to his private life."
+"The Court concludes from the above that publication by the applicant of the names of the juvenile offenders and the official positions of their relatives did not make any contribution to a discussion of a matter of legitimate public concern. Although that information had been previously published by other newspapers, the civil liability imposed on the applicant was justified in the circumstances by the need to prevent further airing in the press of the details of the claimants' private lives”.</cite>"
+"<i>Aleksey Ovchinnikov v. Russia, 2010</i></article>"
+"<article><cite>“Although freedom of expression and confidentiality of communications are primary considerations and users of telecommunications and Internet services must have a guarantee that their own privacy and freedom of expression will be respected, such guarantee cannot be absolute and must yield on occasion to other legitimate imperatives, such as the prevention of disorder or crime or the protection of the rights and freedoms of others”.</cite>"
+"<i>K.U. v. Finland,  2008</i></article>"
+"<p>Judicial proceedings impose stricter obligations on those who report for the public</p>"
+"<article><cite>“(…) it would be inconceivable to consider that there can be no prior or contemporaneous discussion of the subject matter of judicial proceedings elsewhere, be it in specialised journals, in the general press or amongst the public at large. Not only do the media have the task of imparting such information and ideas: the public also has a right to receive them”.</cite>"
+"<i>Dupuis and Others v. France, Application no. 1914/02, Judgment of 7 June 2007</i></article>"
+"<article><cite>“it has to be taken into account that everyone is entitled to the enjoyment of the guarantees of a fair trial set out in Article 6 § 1 of the Convention, which in criminal proceedings include the right to an impartial tribunal. (…) As the Court has already had occasion to point out, “[t]his must be borne in mind by journalists when commenting on pending criminal proceedings since the limits of permissible comment may not extend to statements which are likely to prejudice, whether intentionally or not, the chances of a person receiving a fair trial or to undermine the confidence of the public in the role of the courts in the administration of criminal justice. (…)”.</cite>"
+"<i>Dupuis and Others v. France, Application no. 1914/02, Judgment of 7 June 2007<i></article>"
+"<p>The entire enhanced version of this chapter with links and summaries of the caselaw can be found online at https://cases.internetfreedom.blog</p>"
+"<h3>10. Licensing</h3>"
+>>>>>>> 287dde0a2804f9f6527645f1a17418c866dbe960
 "<p>There is a common understanding, reflected in the European legal systems, and the ECtHR jurisprudence, that there should exist no licensing systems for print publications.</p>"
 "<p>States must not have a say in the appearance on the market of a new publication, which definitely includes Internet publications, in all their forms and shapes. This is a basic principle of freedom of the press.</p>"
 "<p>Nevertheless, there also exists an agreement that, for broadcast media, a licensing system should exist. This limitation is argued to come, amongst others, from the practical matter of a limited availability of broadcasting spectrum, and it brings with it further limitations, such as the existence of national broadcasting legislation that settles restrictive conditions for broadcasting (for example, limitative programming requirements). National broadcasting supervision authorities are established in the European states for the implementation of such legislation.</p>"
