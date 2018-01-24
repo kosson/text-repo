@@ -39,4 +39,9 @@
   // Collapse the navbar when page is scrolled
   $(window).scroll(navbarCollapse);
 
+  // Adaugarea toolstip-urilor
+  $(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
+
 })(jQuery); // End of use strict
