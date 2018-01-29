@@ -111,16 +111,10 @@ dd {
 
 /* ELEMENTE GRAFICE */
 #smiley {
-    /*padding-right: 0 !important;*/
     padding: 15px;
-    position: relative;
-}
-
-#smiley img {
-   position: absolute;
-   left: 50%;
-   top: 50%;
-   transform: translate(-50%, -50%);
+    display: flex;
+    align-items: center; /* horizontal */
+    justify-content: center; /* vertical */
 }
 
 #download a {
