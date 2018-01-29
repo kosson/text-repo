@@ -94,15 +94,79 @@ dd {
 
 /* CULORILE */
 .azure {color: #00B0BD;}
-.azureb {background-color: #00B0BD;}
+.azureb {background-color: #FFFFFF;}
 .pinkish {color: #EF3F6B;}
 .pinkishb {background-color: #EF3F6B;}
 .black {color: black; }
 .whitechar {color: white;}
 .largechar {font-weight: bolder;}
 
+.steaguri > a > img {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #EF3F6B;
+    padding: 2px;
+    margin: 4px;
+}
+
 /* ELEMENTE GRAFICE */
-#smiley { padding-right: 0 !important; }
+#smiley {
+    /*padding-right: 0 !important;*/
+    padding: 15px;
+    position: relative;
+}
+
+#smiley img {
+   position: absolute;
+   left: 50%;
+   top: 50%;
+   transform: translate(-50%, -50%);
+}
+
+#download a {
+    border-style: solid;
+    border-radius: 0.8em;
+    border-color: #ffffff;
+    border-width: 2px;
+    display: block;
+    margin: 10px auto;
+    max-width: 300px;
+}
+
+#download a:hover {
+    color: #EF3F6B;
+    background: #ffffff;
+}
+
+/* Case details inline expand */
+
+a.btn-collapse {
+    font-style: normal;
+    font-size: 0.7rem;
+}
+
+a.btn-collapse:focus {
+    color: #ffffff;
+}
+
+.case-details > .card {
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.case-details > .card > p {
+    margin: 20px 0 0 0;
+    font-style: normal;
+    font-size: 14px;
+}
+
+.case-details > .card > h5 {
+    margin: 0;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+}
 
 /* Slefuire puncte de TOC */
 span.step {
@@ -226,7 +290,7 @@ span.stepblue {
 header.masthead {
   position: relative;
   width: 100%;
-  /* padding-top: 80px; */
+  padding-top: 30px; 
   padding-bottom: 50px;
   color: white;
   background:  #EF3F6B;
@@ -240,15 +304,21 @@ header.masthead {
 
 header.masthead .header-content {
   max-width: 500px;
-  margin-bottom: 100px;
+  /* margin-bottom: 100px; */
   text-align: center;
 }
-header.masthead .header-content h1 { font-size: 30px; }
+
+header.masthead .header-content h1 { 
+  font-size: 30px;
+  font-weight: bold;
+}
+
 header.masthead .device-container {
   max-width: 325px;
   margin-right: auto;
   margin-left: auto;
 }
+
 header.masthead .device-container .screen img { border-radius: 3px; }
 
 /* 992 header */
@@ -256,7 +326,7 @@ header.masthead .device-container .screen img { border-radius: 3px; }
   header.masthead {
     /* height: 100vh; */
     /* min-height: 775px; */
-    padding-top: 0;
+    /* padding-top: 30px; */
     /* padding-bottom: 0; */
   }
   header.masthead .header-content {
